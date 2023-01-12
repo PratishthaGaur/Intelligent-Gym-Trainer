@@ -13,10 +13,5 @@ In the busy schedule people have today they cannot really manage to go in gym at
 it is working and not everybody can afford a personal trainer. But also, for neophytes just
 beginning to start exercising it is very important to have correct posture which if not cared
 about can cause serious health issues. We in this project have proposed an idea of a virtual gym
-guide which will be a web app available for every individual to train themselves using AI. This
-app will be able to list out the exercises for us based on equipment we have and can also guide
-us through it. The application will take in use a webcam feed to perform the given task and
-give live results and feedback. It will incorporate machine learning algorithms for object
-detection and a pose-net model for form correction while exercising; these models are further
-discussed in detail further in the paper.
+guide which will be a web app available for every individual to train themselves using AI.
   </p>
