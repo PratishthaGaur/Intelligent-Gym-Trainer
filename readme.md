@@ -1,7 +1,4 @@
-#Intelligent Gym Trainer
-veloper from India</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Intelligent Gym Trainer</h3>
 <p align="left">
 </p>
 
